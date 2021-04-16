@@ -17,9 +17,5 @@
   <li>Regular Expression</li>
 </ul>
 <h2>Word Cloud Representation</h2>
-<h3>Fake News</h3>
-<img src="https://github.com/NavinBondade/Fake_And_Real_News_Classification/blob/main/Graphs/Fake%20News%20and%20Title%20Word%20Cloud.png" alt="wordcloud" >
-<h3>Real News</h3>
-<img src="https://github.com/NavinBondade/Fake_And_Real_News_Classification/blob/main/Graphs/Real%20News%20and%20Title%20Word%20Cloud.png" alt="wordcloud" >
-
+<img src="https://github.com/NavinBondade/Fake_And_Real_News_Classification/blob/main/Graphs/Word%20Cloud%20Representation.jpg" alt="wordcloud" >
 
