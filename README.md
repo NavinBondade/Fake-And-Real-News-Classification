@@ -25,7 +25,8 @@
   <img src="https://github.com/NavinBondade/Fake_And_Real_News_Classification/blob/main/Graphs/model.png" height="700">
 </p>
 <h2>Model Traning</h2>
-<img src="https://github.com/NavinBondade/Fake_And_Real_News_Classification/blob/main/Graphs/Model%20Training.jpg" alt="wordcloud" >
+<img src="https://github.com/NavinBondade/Fake_And_Real_News_Classification/blob/main/Graphs/Model%20Training.jpg" alt="wordcloud">
+<p>TThe model was trained for 2 epochs. During training, the model uses Adam as an optimizer for performing backpropagation and uses binary_crossentropy as the loss function.</p>
 
 
 
