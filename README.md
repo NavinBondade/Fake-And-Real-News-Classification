@@ -24,5 +24,9 @@
 <p align="center">
   <img src="https://github.com/NavinBondade/Fake_And_Real_News_Classification/blob/main/Graphs/model.png" height="700">
 </p>
+<h2>Model Traning</h2>
+<img src="https://github.com/NavinBondade/Fake_And_Real_News_Classification/blob/main/Graphs/Model%20Training.jpg" alt="wordcloud" >
+
+
 
 
