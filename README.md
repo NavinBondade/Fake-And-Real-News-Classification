@@ -25,8 +25,27 @@
   <img src="https://github.com/NavinBondade/Fake_And_Real_News_Classification/blob/main/Graphs/model.png" height="700">
 </p>
 <h2>Model Traning</h2>
-<img src="https://github.com/NavinBondade/Fake_And_Real_News_Classification/blob/main/Graphs/Model%20Training.jpg" alt="wordcloud">
+<img src="https://github.com/NavinBondade/Fake_And_Real_News_Classification/blob/main/Graphs/Model%20Training.jpg" alt="loss_accuracy">
 <p>The model was trained for 2 epochs. During training, the model uses Adam as an optimizer for performing backpropagation and uses binary_crossentropy as the loss function to penalize model more when it makes false predection.</p>
+<h2>Model Evaluation on Development Dataset</h2>
+<h3>Accuracy and Loss</h3>
+<ul>
+  <li><b>Training Data Accuracy: 99%</b></li>
+  <li><b>Test Data Accuracy: 99%</b></li>
+  <li><b>Training Data Loss: 0.0201</b></li> 
+  <li><b>Test Data Loss: 0.006</b></li> 
+</ul>
+<h3>Confusion Matrix</h3>
+<img src="https://github.com/NavinBondade/Fake_And_Real_News_Classification/blob/main/Graphs/Confusion%20Matrix%20Development%20Data.png">
+<h3>Receiver Operating Characteristics (ROC)</h3>
+<img src="https://github.com/NavinBondade/Fake_And_Real_News_Classification/blob/main/Graphs/ROC.png">
+<h3>Precision vs. Recall curve</h3>
+<img src="https://github.com/NavinBondade/Fake_And_Real_News_Classification/blob/main/Graphs/Precision%20vs.%20Recall%20curve.png">
+<h3>Classification Report</h3>
+<img src="https://github.com/NavinBondade/Fake_And_Real_News_Classification/blob/main/Graphs/Classification%20Report%20development%20data.png">
+
+
+
 
 
 
