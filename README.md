@@ -28,7 +28,6 @@
 <img src="https://github.com/NavinBondade/Fake_And_Real_News_Classification/blob/main/Graphs/Model%20Training.jpg" alt="loss_accuracy">
 <p>The model was trained for 2 epochs. During training, the model uses Adam as an optimizer for performing backpropagation and uses binary_crossentropy as the loss function to penalize model more when it makes false predection.</p>
 <h2>Model Evaluation on Development Dataset</h2>
-<h3>Accuracy and Loss</h3>
 <ul>
   <li><b>Training Data Accuracy: 99%</b></li>
   <li><b>Test Data Accuracy: 99%</b></li>
@@ -40,7 +39,6 @@
 <h2>Classification Report on Development Dataset</h2>
 <img src="https://github.com/NavinBondade/Fake_And_Real_News_Classification/blob/main/Graphs/Classification%20Report%20development%20data.png">   
 <h2>Model Evaluation on Extrinsic Dataset</h2>
-<h3>Accuracy and Loss</h3>
 <ul>
   <li><b>Accuracy: 85%</b></li>
   <li><b>Loss: 0.49</b></li> 
