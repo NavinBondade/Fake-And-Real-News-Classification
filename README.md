@@ -35,13 +35,13 @@
   <li><b>Training Data Loss: 0.0201</b></li> 
   <li><b>Test Data Loss: 0.006</b></li> 
 </ul>
-<h3>Confusion Matrix</h3>
+<h2>Confusion Matrix on Development Dataset</h2>
 <img src="https://github.com/NavinBondade/Fake_And_Real_News_Classification/blob/main/Graphs/Confusion%20Matrix%20Development%20Data.png">
-<h3>Receiver Operating Characteristics (ROC)</h3>
+<h2>Receiver Operating Characteristics (ROC) on Development Dataset</h2>
 <img src="https://github.com/NavinBondade/Fake_And_Real_News_Classification/blob/main/Graphs/ROC.png">
-<h3>Precision vs. Recall curve</h3>
+<h2>Precision vs. Recall curve on Development Dataset</h2>
 <img src="https://github.com/NavinBondade/Fake_And_Real_News_Classification/blob/main/Graphs/Precision%20vs.%20Recall%20curve.png">
-<h3>Classification Report</h3>
+<h2>Classification Report on Development Dataset</h2>
 <img src="https://github.com/NavinBondade/Fake_And_Real_News_Classification/blob/main/Graphs/Classification%20Report%20development%20data.png">
 
 
