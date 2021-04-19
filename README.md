@@ -16,7 +16,7 @@
   <li>Contractions</li>
   <li>Regular Expression</li>
 </ul>
-<h2>Word Cloud Representation</h2>
+*<h2>Word Cloud Representation</h2>
 <img src="https://github.com/NavinBondade/Fake_And_Real_News_Classification/blob/main/Graphs/Word%20Cloud%20Representation.jpg" alt="wordcloud" >
 <h2>Model Details</h2>
 <p>For the conversion of text data to numeric, I have used Keras word to sequence function. The deep learning model at its core uses single one-dimensional convolution neural network layers followed by Max pooling and dropout layer,  it also uses three dense layers for decision making. All the layers use RELU as an activation function except the last dense layer that uses the sigmoid activation function.</p>
