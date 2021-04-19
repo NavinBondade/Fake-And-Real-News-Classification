@@ -34,18 +34,18 @@
   <li><b>Training Data Loss: 0.0201</b></li> 
   <li><b>Test Data Loss: 0.006</b></li> 
 </ul>
-<h2>Confusion Matrix on Development Dataset</h2>
+<h3>Confusion Matrix</h3>
 <img src="https://github.com/NavinBondade/Fake_And_Real_News_Classification/blob/main/Graphs/Confusion%20Matrix%20Development%20Data.png">
-<h2>Classification Report on Development Dataset</h2>
+<h3>Classification Report on Development Dataset</h3>
 <img src="https://github.com/NavinBondade/Fake_And_Real_News_Classification/blob/main/Graphs/Classification%20Report%20development%20data.png">   
-<h2>Model Evaluation on Extrinsic Dataset</h2>
+<h2>Model Evaluation</h2>
 <ul>
   <li><b>Accuracy: 85%</b></li>
   <li><b>Loss: 0.49</b></li> 
 </ul>
-<h2>Confusion Matrix on Development Dataset</h2>
+<h3>Confusion Matrix</h3>
 <img src="https://github.com/NavinBondade/Fake_And_Real_News_Classification/blob/main/Graphs/Confusion%20Matrix%20For%20Fake%20News%20Dataset.png">
-<h2>Classification Report on Development Dataset</h2>
+<h3>Classification Report</h3>
 <img src="https://github.com/NavinBondade/Fake_And_Real_News_Classification/blob/main/Graphs/Classification%20Report%20For%20Fake%20News%20Dataset.png">   
 
 
