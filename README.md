@@ -39,10 +39,6 @@
 <img src="https://github.com/NavinBondade/Fake_And_Real_News_Classification/blob/main/Graphs/Confusion%20Matrix%20Development%20Data.png">
 <h2>Classification Report on Development Dataset</h2>
 <img src="https://github.com/NavinBondade/Fake_And_Real_News_Classification/blob/main/Graphs/Classification%20Report%20development%20data.png">   
-<h2>Receiver Operating Characteristics (ROC) on Development Dataset</h2>
-<img src="https://github.com/NavinBondade/Fake_And_Real_News_Classification/blob/main/Graphs/ROC.png">  
-<h2>Precision vs. Recall curve on Development Dataset</h2>
-<img src="https://github.com/NavinBondade/Fake_And_Real_News_Classification/blob/main/Graphs/Precision%20vs.%20Recall%20curve.png">
 <h2>Model Evaluation on Extrinsic Dataset</h2>
 <h3>Accuracy and Loss</h3>
 <ul>
