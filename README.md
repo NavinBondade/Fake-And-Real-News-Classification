@@ -31,8 +31,6 @@
 <h2>Model Traning</h2>
 <img src="https://github.com/NavinBondade/Fake_And_Real_News_Classification/blob/main/Graphs/Model%20Training.jpg" alt="loss_accuracy">
 <p>The model was trained for 2 epochs. During training, the model uses Adam as an optimizer for performing backpropagation and uses binary_crossentropy as the loss function to penalize model more when it makes false predection.</p>
-<h2>Testing Model on Development Dataset</h2>
-<p>After gaining amazing test and train accuracy by the model, I have further tested it on an extrinsic dataset which model never saw. The main objective behind this was to test whether the model has got overfitted to the data, whether the model has learned the noise and how well it performs on data it never saw before. To achieve this objective I tested the model on a dataset that contains only fake news and not real ones. </p>
 <h2>Model Evaluation on Development Dataset</h2>
 <ul>
   <li><b>Training Data Accuracy: 99%</b></li>
@@ -44,6 +42,8 @@
 <img src="https://github.com/NavinBondade/Fake_And_Real_News_Classification/blob/main/Graphs/Confusion%20Matrix%20Development%20Data.png">
 <h3>Classification Report on Development Dataset</h3>
 <img src="https://github.com/NavinBondade/Fake_And_Real_News_Classification/blob/main/Graphs/Classification%20Report%20development%20data.png">   
+<h2>Testing Model on Extrinsic Dataset</h2>
+<p>After gaining amazing test and train accuracy by the model, I have further tested it on an extrinsic dataset which model never saw. The main objective behind this was to test whether the model has got overfitted to the data, whether the model has learned the noise and how well it performs on data it never saw before. To achieve this objective I tested the model on a dataset that contains only fake news and not real ones. </p>
 <h2>Model Evaluation on Extrinsic Dataset</h2>
 <ul>
   <li><b>Accuracy: 85%</b></li>
