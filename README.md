@@ -13,8 +13,6 @@
   <li>Sklearn</li>
   <li>Spacy</li>
   <li>BeautifulSoup</li>
-  <li>Contractions</li>
-  <li>Regular Expression</li>
 </ul>
 <h2>Word Cloud Representation</h2>
 <p align="center">
