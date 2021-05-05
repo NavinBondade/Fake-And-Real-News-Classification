@@ -13,6 +13,7 @@
   <li>Sklearn</li>
   <li>Spacy</li>
   <li>BeautifulSoup</li>
+  <li>Wordcloud</li>
 </ul>
 <h2>Word Cloud Representation</h2>
 <p align="center">
