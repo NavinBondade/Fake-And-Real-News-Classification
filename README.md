@@ -29,7 +29,7 @@
 </p>
 <h2>Model Traning</h2>
 <img src="https://github.com/NavinBondade/Fake_And_Real_News_Classification/blob/main/Graphs/Model%20Training.jpg" alt="loss_accuracy">
-<p>The model was trained for 2 epochs. During training, the model uses Adam as an optimizer for performing backpropagation and uses binary crossentropy as the loss function to penalize model more when it makes false predection.</p>
+<p>The model was trained for 2 epochs. During training, the model uses Adam as an optimizer for performing backpropagation and uses binary cross-entropy as the loss function to penalize the model more when it makes false predictions.</p>
 <h2>Model Evaluation on Development Dataset</h2>
 <ul>
   <li><b>Training Data Accuracy: 99%</b></li>
