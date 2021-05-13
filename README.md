@@ -9,7 +9,6 @@
   <li>Pandas </li>
   <li>Matplotlib</li>
   <li>Seaborn</li>
-  <li>Numpy</li>
   <li>Sklearn</li>
   <li>Spacy</li>
   <li>BeautifulSoup</li>
