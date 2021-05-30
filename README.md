@@ -1,6 +1,8 @@
 # Distinguishing The Fake And Real News With EDA <br> Development Dataset Accuracy: 99 % | Extrinsic Dataset Accuracy: 85%
 <p align="center">
-<img src="https://github.com/NavinBondade/Distinguishing-Fake-And-Real-News-With-Deep-Learning/blob/main/Graphs/button_if-github-fails-to-load-the-notebook-click-here.png" onclick="window.open('https://nbviewer.jupyter.org/github/NavinBondade/Distinguishing-Fake-And-Real-News-With-Deep-Learning/blob/main/Notebook/Fake_and_Real_News_notebook.ipynb', '_blank');">
+<a href="https://nbviewer.jupyter.org/github/NavinBondade/Distinguishing-Fake-And-Real-News-With-Deep-Learning/blob/main/Notebook/Fake_and_Real_News_notebook.ipynb" target="_blank">
+  <img width="220" height="250" border="0" align="center"  src="https://github.com/NavinBondade/Distinguishing-Fake-And-Real-News-With-Deep-Learning/blob/main/Graphs/button_if-github-fails-to-load-the-notebook-click-here%20(1).png?raw=true"/>
+</a>
 </p>
 <img src="https://ichef.bbci.co.uk/news/976/cpsprodpb/089D/production/_111750220_gettyimages-1215064495.jpg" alt="Fake_And_Real_News_Classification" width="1000" height="510">
 <p>Fake news is one of the most painful headaches in today's world. They lead to the spread of fake and misleading information that has many times results in violent protests or damage to the reputation of an organization or person. To tackle this problem, I have created a deep learning system that is capable of identifying fake news in a couple of seconds with an <b>accuracy of 99%.</b></p>
