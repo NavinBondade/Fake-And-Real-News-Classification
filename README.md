@@ -5,7 +5,9 @@
 </a>
 </p> 
 <img src="https://ichef.bbci.co.uk/news/976/cpsprodpb/089D/production/_111750220_gettyimages-1215064495.jpg" alt="Fake_And_Real_News_Classification" width="1000" height="510">
-<p>Fake news is one of the most painful headaches in today's world. They lead to the spread of fake and misleading information that has many times results in violent protests or damage to the reputation of an organization or of a person. To tackle this problem, I have created a deep learning system that is capable of identifying fake news in a couple of seconds with an <b>accuracy of 99%.</b></p>
+<p>Fake news has become one of the most pervasive challenges in today's digital landscape, contributing to the spread of misinformation that can cause widespread harm. The dissemination of false and misleading information has, on numerous occasions, resulted in violent protests, public unrest, and significant damage to the reputation of individuals, organizations, and even entire communities. To address this growing issue, I have developed a state-of-the-art deep learning system that is designed to accurately and efficiently detect fake news.
+
+This system, built using advanced neural network architectures, is capable of identifying fake news with an impressive accuracy of 99%, delivering results within just a few seconds. By analyzing the language, tone, and structure of the text, the model distinguishes between genuine and deceptive information with exceptional precision. This automated solution not only provides a rapid response to potential misinformation but also aids in mitigating its harmful impact by enabling organizations and individuals to respond swiftly and appropriately, ensuring a more informed and responsible flow of information.</p>
 <h2>Libraries Used</h2>
 <ul>
   <li>Tensorflow</li>
